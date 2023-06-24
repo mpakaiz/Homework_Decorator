@@ -1,0 +1,12 @@
+INFO:root:Function av_grade_st_course executed 2023-06-24 23:04:17.800381
+INFO:root:With args: ([<__main__.Student object at 0x00000130EB24D400>, <__main__.Student object at 0x00000130EB24D040>], 'Python')_{}
+INFO:root:Result of av_grade_st_course: None
+INFO:root:Function av_grade_lc_course executed 2023-06-24 23:04:17.800381
+INFO:root:With args: ([<__main__.Lecturer object at 0x00000130EB241D00>, <__main__.Lecturer object at 0x00000130EB241CA0>], 'Python')_{}
+INFO:root:Result of av_grade_lc_course: None
+INFO:root:Function test_one executed 2023-06-24 23:05:01.874575
+INFO:root:With args: ()_{}
+INFO:root:Result of test_one: None
+INFO:root:Function test_two executed 2023-06-24 23:05:35.085593
+INFO:root:With args: ()_{}
+INFO:root:Result of test_two: None

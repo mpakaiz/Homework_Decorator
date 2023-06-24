@@ -1,0 +1,15 @@
+INFO:root:Function hello_world executed 2023-06-24 22:41:55.513838
+INFO:root:With args: ()_{}
+INFO:root:Result of hello_world: Hello World
+INFO:root:Function summator executed 2023-06-24 22:41:55.513838
+INFO:root:With args: (2, 2)_{}
+INFO:root:Result of summator: 4
+INFO:root:Function div executed 2023-06-24 22:41:55.513838
+INFO:root:With args: (6, 2)_{}
+INFO:root:Result of div: 3.0
+INFO:root:Function summator executed 2023-06-24 22:41:55.514835
+INFO:root:With args: (4.3,)_{'b': 2.2}
+INFO:root:Result of summator: 6.5
+INFO:root:Function summator executed 2023-06-24 22:41:55.514835
+INFO:root:With args: ()_{'a': 0, 'b': 0}
+INFO:root:Result of summator: 0
