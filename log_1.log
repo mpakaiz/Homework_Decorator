@@ -1,1 +1,36 @@
-2023-06-24 22:41:55.518826,hello_world,()_{},Hello World2023-06-24 22:41:55.518826,summator,(2, 2)_{},42023-06-24 22:41:55.518826,div,(6, 2)_{},3.02023-06-24 22:41:55.518826,summator,(4.3,)_{'b': 2.2},6.5
+2023-06-25 19:25:05,944 - log_1.log - INFO - Function hello_world executed 2023-06-25 19:25:05.944066
+2023-06-25 19:25:05,944 - log_1.log - INFO - Function hello_world executed 2023-06-25 19:25:05.944066
+2023-06-25 19:25:05,944 - log_1.log - INFO - Function hello_world executed 2023-06-25 19:25:05.944066
+2023-06-25 19:25:05,944 - log_1.log - INFO - With args: ()_{}
+2023-06-25 19:25:05,944 - log_1.log - INFO - With args: ()_{}
+2023-06-25 19:25:05,944 - log_1.log - INFO - With args: ()_{}
+2023-06-25 19:25:05,945 - log_1.log - INFO - Result of hello_world: Hello World
+2023-06-25 19:25:05,945 - log_1.log - INFO - Result of hello_world: Hello World
+2023-06-25 19:25:05,945 - log_1.log - INFO - Result of hello_world: Hello World
+2023-06-25 19:25:05,945 - log_1.log - INFO - Function summator executed 2023-06-25 19:25:05.945064
+2023-06-25 19:25:05,945 - log_1.log - INFO - Function summator executed 2023-06-25 19:25:05.945064
+2023-06-25 19:25:05,945 - log_1.log - INFO - Function summator executed 2023-06-25 19:25:05.945064
+2023-06-25 19:25:05,945 - log_1.log - INFO - With args: (2, 2)_{}
+2023-06-25 19:25:05,945 - log_1.log - INFO - With args: (2, 2)_{}
+2023-06-25 19:25:05,945 - log_1.log - INFO - With args: (2, 2)_{}
+2023-06-25 19:25:05,946 - log_1.log - INFO - Result of summator: 4
+2023-06-25 19:25:05,946 - log_1.log - INFO - Result of summator: 4
+2023-06-25 19:25:05,946 - log_1.log - INFO - Result of summator: 4
+2023-06-25 19:25:05,946 - log_1.log - INFO - Function div executed 2023-06-25 19:25:05.946061
+2023-06-25 19:25:05,946 - log_1.log - INFO - Function div executed 2023-06-25 19:25:05.946061
+2023-06-25 19:25:05,946 - log_1.log - INFO - Function div executed 2023-06-25 19:25:05.946061
+2023-06-25 19:25:05,946 - log_1.log - INFO - With args: (6, 2)_{}
+2023-06-25 19:25:05,946 - log_1.log - INFO - With args: (6, 2)_{}
+2023-06-25 19:25:05,946 - log_1.log - INFO - With args: (6, 2)_{}
+2023-06-25 19:25:05,946 - log_1.log - INFO - Result of div: 3.0
+2023-06-25 19:25:05,946 - log_1.log - INFO - Result of div: 3.0
+2023-06-25 19:25:05,946 - log_1.log - INFO - Result of div: 3.0
+2023-06-25 19:25:05,947 - log_1.log - INFO - Function summator executed 2023-06-25 19:25:05.947058
+2023-06-25 19:25:05,947 - log_1.log - INFO - Function summator executed 2023-06-25 19:25:05.947058
+2023-06-25 19:25:05,947 - log_1.log - INFO - Function summator executed 2023-06-25 19:25:05.947058
+2023-06-25 19:25:05,947 - log_1.log - INFO - With args: (4.3,)_{'b': 2.2}
+2023-06-25 19:25:05,947 - log_1.log - INFO - With args: (4.3,)_{'b': 2.2}
+2023-06-25 19:25:05,947 - log_1.log - INFO - With args: (4.3,)_{'b': 2.2}
+2023-06-25 19:25:05,947 - log_1.log - INFO - Result of summator: 6.5
+2023-06-25 19:25:05,947 - log_1.log - INFO - Result of summator: 6.5
+2023-06-25 19:25:05,947 - log_1.log - INFO - Result of summator: 6.5

@@ -1,21 +1,57 @@
-INFO:root:Function hello_world executed 2023-06-24 23:10:55.780980
+INFO:root:Function hello_world executed 2023-06-25 19:22:48.475093
 INFO:root:With args: ()_{}
 INFO:root:Result of hello_world: Hello World
-INFO:root:Function summator executed 2023-06-24 23:10:55.780980
+INFO:root:Function summator executed 2023-06-25 19:22:48.475093
 INFO:root:With args: (2, 2)_{}
 INFO:root:Result of summator: 4
-INFO:root:Function div executed 2023-06-24 23:10:55.780980
+INFO:root:Function div executed 2023-06-25 19:22:48.475093
 INFO:root:With args: (6, 2)_{}
 INFO:root:Result of div: 3.0
-INFO:root:Function summator executed 2023-06-24 23:10:55.780980
+INFO:root:Function summator executed 2023-06-25 19:22:48.475093
 INFO:root:With args: (4.3,)_{'b': 2.2}
 INFO:root:Result of summator: 6.5
-INFO:root:Function summator executed 2023-06-24 23:10:55.780980
+INFO:root:Function summator executed 2023-06-25 19:22:48.475093
 INFO:root:With args: ()_{'a': 0, 'b': 0}
 INFO:root:Result of summator: 0
-INFO:root:Function test_one executed 2023-06-24 23:10:55.796936
+INFO:log_1.log:Function hello_world executed 2023-06-25 19:22:48.481076
+INFO:log_1.log:With args: ()_{}
+INFO:log_1.log:Result of hello_world: Hello World
+INFO:log_1.log:Function summator executed 2023-06-25 19:22:48.482073
+INFO:log_1.log:With args: (2, 2)_{}
+INFO:log_1.log:Result of summator: 4
+INFO:log_1.log:Function div executed 2023-06-25 19:22:48.483070
+INFO:log_1.log:With args: (6, 2)_{}
+INFO:log_1.log:Result of div: 3.0
+INFO:log_1.log:Function summator executed 2023-06-25 19:22:48.483070
+INFO:log_1.log:With args: (4.3,)_{'b': 2.2}
+INFO:log_1.log:Result of summator: 6.5
+INFO:log_2.log:Function hello_world executed 2023-06-25 19:22:48.485066
+INFO:log_2.log:With args: ()_{}
+INFO:log_2.log:Result of hello_world: Hello World
+INFO:log_2.log:Function summator executed 2023-06-25 19:22:48.486061
+INFO:log_2.log:With args: (2, 2)_{}
+INFO:log_2.log:Result of summator: 4
+INFO:log_2.log:Function div executed 2023-06-25 19:22:48.487059
+INFO:log_2.log:With args: (6, 2)_{}
+INFO:log_2.log:Result of div: 3.0
+INFO:log_2.log:Function summator executed 2023-06-25 19:22:48.489053
+INFO:log_2.log:With args: (4.3,)_{'b': 2.2}
+INFO:log_2.log:Result of summator: 6.5
+INFO:log_3.log:Function hello_world executed 2023-06-25 19:22:48.490051
+INFO:log_3.log:With args: ()_{}
+INFO:log_3.log:Result of hello_world: Hello World
+INFO:log_3.log:Function summator executed 2023-06-25 19:22:48.492046
+INFO:log_3.log:With args: (2, 2)_{}
+INFO:log_3.log:Result of summator: 4
+INFO:log_3.log:Function div executed 2023-06-25 19:22:48.493043
+INFO:log_3.log:With args: (6, 2)_{}
+INFO:log_3.log:Result of div: 3.0
+INFO:log_3.log:Function summator executed 2023-06-25 19:22:48.493043
+INFO:log_3.log:With args: (4.3,)_{'b': 2.2}
+INFO:log_3.log:Result of summator: 6.5
+INFO:root:Function test_one executed 2023-06-25 19:22:48.508002
 INFO:root:With args: ()_{}
 INFO:root:Result of test_one: None
-INFO:root:Function test_two executed 2023-06-24 23:10:55.808904
+INFO:root:Function test_two executed 2023-06-25 19:22:48.508002
 INFO:root:With args: ()_{}
 INFO:root:Result of test_two: None
